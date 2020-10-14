@@ -1,0 +1,27 @@
+_repo: Proverbes-sur-les-femmes-l-amitie-l-amour-et-le-mariage_63380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quitard, P.-M. (Pierre-Marie)
+    aliases:
+    - Quitard, Pierre Marie
+    - Quitard, Pierre-Marie
+    birthdate: 1792
+    deathdate: 1882
+    gutenberg_agent_id: '46500'
+    url: http://www.gutenberg.org/2009/agents/46500
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63380'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Proverbs, French'
+- GITenberg
+title: Proverbes sur les femmes, l'amitié, l'amour et le mariage
+url: http://www.gutenberg.org/ebooks/63380
